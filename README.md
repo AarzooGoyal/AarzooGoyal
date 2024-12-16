@@ -2,10 +2,15 @@
 
 **Skills and Tools**
 Programming Languages: Python, R, SQL
-Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+
+Data Visualization: Tableau, Power BI
+
 Machine Learning: Scikit-learn, TensorFlow, Keras
+
 Data Manipulation: Pandas, NumPy, dplyr
-Database Management: MySQL, PostgreSQL, MongoDB
+
+Database Management: MySQL,  MongoDB
+
 Version Control: Git, GitHub
 
 **Professional Experience**
