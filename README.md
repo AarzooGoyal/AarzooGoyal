@@ -3,7 +3,7 @@
 **Skills and Tools**
 Programming Languages: Python, R, SQL
 
-Data Visualization: Tableau, Power BI
+Data Visualization: Tableau, Power BI ,Looker
 
 Machine Learning: Scikit-learn, TensorFlow, Keras
 
